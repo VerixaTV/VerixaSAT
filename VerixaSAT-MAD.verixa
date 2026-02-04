@@ -1,3 +1,3 @@
 1.|La 1|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/b/b6/La_1_2026.svg|La1.TV|TDTChannels|m3u8|https://ztnr.rtve.es/ztnr/1688877.m3u8
 2.|La 2|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/La_2_2026.svg/500px-La_2_2026.svg.png|La2.TV|TDTChannels|m3u8|https://ztnr.rtve.es/ztnr/1688885.m3u8
-3.|Antena 3|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/960px-Antena_3_2025_%28sin_wordmark%29.svg.png|Antena 3 HD|dobleM|oha|2255480833
+3.|Antena 3|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/960px-Antena_3_2025_%28sin_wordmark%29.svg.png|Antena 3 HD|dobleM|json|https://raw.githubusercontent.com/VerixaTV/VerixaSAT/refs/heads/main/verixasat-antena3.json
