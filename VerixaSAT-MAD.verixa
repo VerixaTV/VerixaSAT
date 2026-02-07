@@ -1,3 +1,10 @@
-1.|La 1|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/b/b6/La_1_2026.svg|La1.TV|TDTChannels|m3u8|https://ztnr.rtve.es/ztnr/1688877.m3u8
-2.|La 2|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/La_2_2026.svg/500px-La_2_2026.svg.png|La2.TV|TDTChannels|m3u8|https://ztnr.rtve.es/ztnr/1688885.m3u8
-3.|Antena 3|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/960px-Antena_3_2025_%28sin_wordmark%29.svg.png|Antena 3 HD|dobleM|embed|https://www.freeshot.live/live-tv/antena-3/698
+1.|La 1 HD|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/b/b6/La_1_2026.svg|La1.TV|TDTChannels|m3u8|https://ztnr.rtve.es/ztnr/1688877.m3u8
+2.|La 2 HD|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/La_2_2026.svg/500px-La_2_2026.svg.png|La2.TV|TDTChannels|m3u8|https://ztnr.rtve.es/ztnr/1688885.m3u8
+3.|verixa res 003|FRECUENCIA 1|Madrid|||||
+4.|VERIXA RES 004|FRECUENCIA 1|Madrid|||||
+5.|24H HD|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/24h_2026.svg/1280px-24h_2026.svg.png|24Horas.TV|TDTChannels|m3u8|https://ztnr.rtve.es/ztnr/1694255.m3u8
+6.|Teledeporte HD|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/d/d1/TDP_2026.svg|TDP.TV|TDTChannels|m3u8|https://ztnr.rtve.es/ztnr/1712295.m3u8
+7.|verixa res 007|FRECUENCIA 1|Madrid|||||
+8.|VERIXA RES 008|FRECUENCIA 1|Madrid|||||
+9.|verixa res 009|FRECUENCIA 1|Madrid|||||
+10.|telemadrid hd|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Telemadrid.svg/960px-Telemadrid.svg.png|Telemadrid.TV|TDTChannels|embed|https://www.telemadrid.es/emision-en-directo-telemadrid-int/
