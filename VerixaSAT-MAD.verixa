@@ -7,4 +7,5 @@
 7.|verixa res 007|FRECUENCIA 1|Madrid|||||
 8.|VERIXA RES 008|FRECUENCIA 1|Madrid|||||
 9.|verixa res 009|FRECUENCIA 1|Madrid|||||
-10.|telemadrid hd|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Telemadrid.svg/960px-Telemadrid.svg.png|Telemadrid.TV|TDTChannels|embed|https://tivify.tv/player?channel=SAT58
+10.|telemadrid int|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Telemadrid.svg/960px-Telemadrid.svg.png|Telemadrid.TV|TDTChannels|youtube|https://www.youtube.com/watch?v=d1fgkjW9TP4
+11.|LA OTRA HD|FRECUENCIA 1|Madrid|https://static.wikia.nocookie.net/logopedia/images/6/69/Telemadrid_laotra_2017_symbol.svg/revision/latest/scale-to-width-down/250?cb=20210503144508|LaOtra.TV|TDTChannels|embed|https://directostv.teleame.com/laotraendirecto/
