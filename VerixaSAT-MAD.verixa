@@ -7,5 +7,9 @@
 7.|verixa res 007|FRECUENCIA 1|Madrid|||||
 8.|VERIXA RES 008|FRECUENCIA 1|Madrid|||||
 9.|verixa res 009|FRECUENCIA 1|Madrid|||||
-10.|telemadrid int|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Telemadrid.svg/960px-Telemadrid.svg.png|Telemadrid.TV|TDTChannels|youtube|https://www.youtube.com/watch?v=d1fgkjW9TP4
+10.|telemadrid int|FRECUENCIA 1|Madrid|https://static.wikia.nocookie.net/logopedia/images/b/b7/Telemadrid_INT_alternate.svg/revision/latest/scale-to-width-down/250?cb=20210501210404|Telemadrid.TV|TDTChannels|youtube|https://www.youtube.com/watch?v=d1fgkjW9TP4
 11.|LA OTRA HD|FRECUENCIA 1|Madrid|https://directostv.teleame.com/wp-content/uploads/2017/09/La-Otra-en-DIRECTO-Online-y-en-vivo-1536x864.png|LaOtra.TV|TDTChannels|embed|https://directostv.teleame.com/laotraendirecto/
+12.|TELEMADRID|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Telemadrid.svg/960px-Telemadrid.svg.png|Telemadrid.TV|TDTChannels|embed|https://directostv.teleame.com/telemadridendirecto/
+13.|VERIXA RES 013|FRECUENCIA 1|Madrid|||||
+14.|Canal Sur SAT|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/1/10/Canal_Sur_Andaluc%C3%ADa_SAT.png|CanalSurA.TV|TDTChannels|embed|https://www.canalsurmas.es/videos/131772-canal-sur-andalucia
+15.|Clan HD|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Clan_2026.svg/1280px-Clan_2026.svg.png|Clan.TV|TDTChannels|m3u8|https://ztnr.rtve.es/ztnr/5466990.m3u8
