@@ -26,3 +26,22 @@
 26.|Canal Parlamento|FRECUENCIA 1|Madrid|https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Parlamento-Espana-en-DIRECTO-Online-y-en-vivo.png|||m3u8|https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
 27.|TV3 CAT|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/1280px-TV3.svg.png|TV3.TV|TDTChannels|m3u8|https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/master.m3u8
 28.|ETB SAT|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ETBSat_Spain.svg/3840px-ETBSat_Spain.svg.png|ETB1.TV|TDTChannels|mpd|https://cdn1.etbon.eus/etb1/index.mpd
+29.|TV GALICIA|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg|TVGAL.TV|TDTChannels|m3u8|https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
+30.|EXTREMADURA SAT|FRECUENCIA 1|Madrid|https://www.formulatv.com/images/cadenas/logo_canal-extremadura-sat.svg|Extremadura.TV|TDTChannels|m3u8|https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
+31.|EURONEWS ENG|FRECUENCIA 1|Madrid|https://www.formulatv.com/images/cadenas/logo_euronews.svg|Euronews.TV|TDTChannels|youtube|https://www.youtube.com/watch?v=pykpO5kQJ98
+32.|EURONEWS FRA|FRECUENCIA 1|Madrid|https://www.formulatv.com/images/cadenas/logo_euronews.svg|Euronews.fr|FR|youtube|https://www.youtube.com/watch?v=NiRIbKwAejk
+33.|EURONEWS GER|FRECUENCIA 1|Madrid|https://www.formulatv.com/images/cadenas/logo_euronews.svg|euronews (ger)|EPGPWDE|youtube|https://www.youtube.com/watch?v=CQ3KsEbsYHs
+34.|EURONEWS POR|FRECUENCIA 1|Madrid|https://www.formulatv.com/images/cadenas/logo_euronews.svg|EuronewsPortuguese.fr|PT|youtube|https://www.youtube.com/watch?v=XuZAl-ZPEcA
+35.|EURONEWS RUS|FRECUENCIA 1|Madrid|https://www.formulatv.com/images/cadenas/logo_euronews.svg|Euronews (английский)|EPGPW|youtube|https://www.youtube.com/watch?v=lwYzwdBiaho
+36.|FRANCE 24 ENG|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png|France 24 English|EPGPW|youtube|https://www.youtube.com/watch?v=Ap-UM1O9RBU
+37.|FRANCE 24 FRA|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png|France24.TV|TDTChannels|youtube|https://www.youtube.com/watch?v=l8PMl7tUDIE
+38.|FRANCE 24 ARAB|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png|France 24 Arabian|EPGPW|youtube|https://www.youtube.com/watch?v=3ursYA8HMeo
+39.|verixa res 039|FRECUENCIA 1|Madrid|||||
+40.|BBC NEWS|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1280px-BBC_News_2022_%28Alt%29.svg.png|BBC News HD|starhub|m3u8|https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+41.|al jazeera eng|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png|AlJazeeraEnglish.qa|freeview|m3u8|https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
+42.|AL JAZEERA ARAB|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png|AlJazeeraArabic.qa|freeview|m3u8|https://live-hls-web-ajm-bp.thehlive.com/AJM/index.m3u8
+43.|bloomberg tv|FRECUENCIA 1|Madrid|https://images.ctfassets.net/lr0atmu04u9z/1PGS2NP94z5RP7L61GzIbm/85665ad1eadfd9c965448ad67097aba0/new_bloomberg_logosvg.png|Bloom.TV|TDTChannels|m3u8|https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+44.|NHK WORLD JAPAN|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/960px-NHK_World.svg.png|NHKWorldJapan.jp|freeview|m3u8|https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+45.|verixa res 045|FRECUENCIA 1|Madrid|||||
+46.|CCTV 4|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/en/0/08/CCTV-4_channel.svg|CCTV-4 (亚洲)|EPGPWCH|m3u8|https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv4_1/index.m3u8?BR=td&region=shanghai
+47.|TELEFE INT|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/1280px-Telefe_Internacional_%282018%29.png|Canal Telefe Internacional|gatotv|m3u8|a
