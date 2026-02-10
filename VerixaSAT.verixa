@@ -73,3 +73,18 @@
 73.|VERIXA RES 073|FRECUENCIA 1|Madrid|||||
 74.|VERIXA RES 074|FRECUENCIA 1|Madrid|||||
 75.|verixa test 075|FRECUENCIA 1|Madrid|||||
+76.|GARAGE TV|FRECUENCIA 1|Madrid|https://www.formulatv.com/images/cadenas/logo_el-garage-tv.svg|ElGarageTv.ar|AR|m3u8|https://stream1.sersat.com/hls/garagetv.m3u8
+77.|MOTORVISION|FRECUENCIA 1|Madrid|https://motorvision.tv/wp-content/uploads/2023/09/MV_Logo_positive_light_background-2.png|||m3u8|https://ov-ml-decorate.ottera.tv/mvg/mv_es/mv_es.m3u8
+78.|WPT Poker|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/3/3c/World_Poker_Tour_2022_Logo.png|||m3u8|https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00218-wptenterprisesi-worldpokertour-wpt/playlist.m3u8
+79.|CANAL 22|FRECUENCIA 1|Madrid|https://digitaltv.prensariozone.com/wp-content/uploads/2021/07/Canal-22-Mexico-en-vivo-Online.-Mexico-1024x576.png|Canal 22 de México|gatotv|m3u8|https://5e50264bd6766.streamlock.net/canal22-back/videocanal22-back/playlist.m3u8
+80.|TVR International|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/d/d1/TVRi_Logo_2022.svg|TVRInternational.ro|RO|m3u8|https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
+81.|EWTN España|FRECUENCIA 1|Madrid|https://lirp.cdn-website.com/9ab7ce94/dms3rep/multi/opt/EWTN-BLANCO-640w.png|EWTN.TV|TDTChannels|m3u8|https://1211313014.rsc.cdn77.org/1211313014/index.m3u8
+82.|CNA|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/8/83/CNA_new_logo.svg|2852|EPGPWMY|m3u8|https://amg01082-amg01082c1-cna-worldwide-2842.playouts.now.amagi.tv/cna-cnanews-samsung/playlist.m3u8
+83.|VERIXA RES 083|FRECUENCIA 1|Madrid|||||
+84.|REAL MADRID TV|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/5/57/Real_emblem_6.png|RMTV.TV|TDTChannels|m3u8|https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+85.|AL ARABY|FRECUENCIA 4|Madrid|https://www.fadaatmedia.com/sites/default/files/2024-10/Blue%20Logo%20al%20araby%20plus%402x.png|||m3u8|https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
+86.|KTO|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/7/7a/KTO_t%C3%A9l%C3%A9vision_catholique_-_logo_2022.png|||m3u8|https://livekto.akamaized.net/hls/live/20000018/ktotv/master.m3u8
+87.|CGTN Español|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png|CGTN.TV|TDTChannels|embed|https://espanol.cgtn.com/en-directo
+88.|CANAL ONCE|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal_Once_logo_2025.png|Canal Once TV - México (XEIPN-TV)|gatotv|m3u8|https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
+89.|VERIXA RES 089|FRECUENCIA 4|Madrid|||||
+90.|VTV|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg|||m3u8|https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
