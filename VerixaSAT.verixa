@@ -44,4 +44,18 @@
 44.|NHK WORLD JAPAN|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/960px-NHK_World.svg.png|NHKWorldJapan.jp|freeview|m3u8|https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 45.|verixa res 045|FRECUENCIA 1|Madrid|||||
 46.|CCTV 4|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/en/0/08/CCTV-4_channel.svg|CCTV-4 (亚洲)|EPGPWCH|m3u8|https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv4_1/index.m3u8?BR=td&region=shanghai
-47.|TELEFE INT|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/1280px-Telefe_Internacional_%282018%29.png|Canal Telefe Internacional|gatotv|m3u8|a
+47.|RT en Español|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg|||m3u8|https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+48.|VERIXA RES 048|FRECUENCIA 1|Madrid|||||
+49.|VERIXA RES 049|FRECUENCIA 1|Madrid|||||
+50.|verixa test 050|FRECUENCIA 1|Madrid|||||
+51.|DELUXE MUSIC|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Deluxe_Music_Logo_2019.svg/1280px-Deluxe_Music_Logo_2019.svg.png|DELUXE MUSIC|EPGPWDE|m3u8|https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+52.|TRACE URBAN|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Traceurban2022.png/250px-Traceurban2022.png|TRACE URBAN HD|EPGPWZA|m3u8|https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
+53.|SOL TDT|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/4/4e/SolMusica2007.png|SolMusica.TV|TDTChannels|m3u8|https://stream.ads.ottera.tv/playlist.m3u8?network_id=5760
+54.|VIVA RUSSIA|FRECUENCIA 1|Madrid|https://viva-russia.ru/wp-content/uploads/2021/09/viva_2002_belyj_zhjoltyj_prjamougolnik.png|VIVARussia.ru|VIVARUSSIA|embed|https://viva-russia.ru/
+55.|verixa res 055|FRECUENCIA 1|Madrid|||||
+56.|HISPAN TV|FRECUENCIA 1|Madrid|https://www.arcoiris.tv/images/categorie/hispantv1.png|||m3u8|https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
+57.|TRECE|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png|13.TV|TDTChannels|m3u8|https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
+58.|FILM&CO|FRECUENCIA 1|Madrid|https://alpha.uscreencdn.com/images/logotypes/27376/filmico_roj.1696489950.png|||m3u8|https://daiconnect.com/live/hls/tvup/tvfy-filmco/56f0832110a1bbaecc3a45a27ddba1d9/index.m3u8
+59.|verixa res 059|FRECUENCIA 1|Madrid|||||
+60.|RAI NEWS 24|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/960px-Rai_News_24_logo_%282022%29.svg.png|RaiN.TV|TDTChannels|embed|https://www.rainews.it/notiziari/rainews24
+61.|RTPi|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/6/6e/RTP_Internacional_%282016%29.svg|||m3u8|https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
