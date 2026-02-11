@@ -23,68 +23,78 @@
 23.|VERIXA RES 023|FRECUENCIA 1|Madrid|||||
 24.|france 24 esp|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png|France24.TV|TDTChannels|youtube|https://www.youtube.com/watch?v=Y-IlMeCCtIg
 25.|TRT WORLD HD|FRECUENCIA 1|Madrid|https://storelectric.com/wp-content/uploads/2024/01/trt-world.png|TRTWorld|Malaysia|m3u8|https://tv-trtworld.medya.trt.com.tr/master.m3u8
-26.|Canal Parlamento|FRECUENCIA 1|Madrid|https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Parlamento-Espana-en-DIRECTO-Online-y-en-vivo.png|||m3u8|https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
-27.|TV3 CAT|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/1280px-TV3.svg.png|TV3.TV|TDTChannels|m3u8|https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/master.m3u8
-28.|ETB SAT|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ETBSat_Spain.svg/3840px-ETBSat_Spain.svg.png|ETB1.TV|TDTChannels|mpd|https://cdn1.etbon.eus/etb1/index.mpd
-29.|TV GALICIA|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg|TVGAL.TV|TDTChannels|m3u8|https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
-30.|EXTREMADURA SAT|FRECUENCIA 1|Madrid|https://www.formulatv.com/images/cadenas/logo_canal-extremadura-sat.svg|Extremadura.TV|TDTChannels|m3u8|https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
-31.|EURONEWS ENG|FRECUENCIA 1|Madrid|https://www.formulatv.com/images/cadenas/logo_euronews.svg|Euronews.TV|TDTChannels|youtube|https://www.youtube.com/watch?v=pykpO5kQJ98
-32.|EURONEWS FRA|FRECUENCIA 1|Madrid|https://www.formulatv.com/images/cadenas/logo_euronews.svg|Euronews.fr|FR|youtube|https://www.youtube.com/watch?v=NiRIbKwAejk
-33.|EURONEWS GER|FRECUENCIA 1|Madrid|https://www.formulatv.com/images/cadenas/logo_euronews.svg|438462|EPGPWDE|youtube|https://www.youtube.com/watch?v=CQ3KsEbsYHs
-34.|EURONEWS POR|FRECUENCIA 1|Madrid|https://www.formulatv.com/images/cadenas/logo_euronews.svg|EuronewsPortuguese.fr|PT|youtube|https://www.youtube.com/watch?v=XuZAl-ZPEcA
-35.|EURONEWS RUS|FRECUENCIA 1|Madrid|https://www.formulatv.com/images/cadenas/logo_euronews.svg||EPGPW|youtube|https://www.youtube.com/watch?v=lwYzwdBiaho
-36.|FRANCE 24 ENG|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png|||youtube|https://www.youtube.com/watch?v=Ap-UM1O9RBU
-37.|FRANCE 24 FRA|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png|France24.TV|TDTChannels|youtube|https://www.youtube.com/watch?v=l8PMl7tUDIE
-38.|FRANCE 24 ARAB|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png|||youtube|https://www.youtube.com/watch?v=3ursYA8HMeo
-39.|verixa res 039|FRECUENCIA 1|Madrid|||||
-40.|BBC NEWS|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1280px-BBC_News_2022_%28Alt%29.svg.png|BBC News HD|starhub|m3u8|https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-41.|al jazeera eng|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png|AlJazeeraEnglish.qa|freeview|m3u8|https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
-42.|AL JAZEERA ARAB|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png|AlJazeeraArabic.qa|freeview|m3u8|https://live-hls-web-ajm-bp.thehlive.com/AJM/index.m3u8
-43.|bloomberg tv|FRECUENCIA 1|Madrid|https://images.ctfassets.net/lr0atmu04u9z/1PGS2NP94z5RP7L61GzIbm/85665ad1eadfd9c965448ad67097aba0/new_bloomberg_logosvg.png|Bloom.TV|TDTChannels|m3u8|https://www.bloomberg.com/media-manifest/streams/eu.m3u8
-44.|NHK WORLD JAPAN|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/960px-NHK_World.svg.png|NHKWorldJapan.jp|freeview|m3u8|https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-45.|verixa res 045|FRECUENCIA 1|Madrid|||||
-46.|CCTV 4|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/en/0/08/CCTV-4_channel.svg|464590|EPGPWCH|m3u8|https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv4_1/index.m3u8?BR=td&region=shanghai
-47.|RT en Español|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg|||m3u8|https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-48.|VERIXA RES 048|FRECUENCIA 1|Madrid|||||
-49.|VERIXA RES 049|FRECUENCIA 1|Madrid|||||
-50.|verixa test 050|FRECUENCIA 1|Madrid|||||
-51.|DELUXE MUSIC|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Deluxe_Music_Logo_2019.svg/1280px-Deluxe_Music_Logo_2019.svg.png|DELUXE MUSIC|EPGPWDE|m3u8|https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-52.|TRACE URBAN|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Traceurban2022.png/250px-Traceurban2022.png|422320|EPGPWZA|m3u8|https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
-53.|SOL TDT|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/4/4e/SolMusica2007.png|SolMusica.TV|TDTChannels|m3u8|https://stream.ads.ottera.tv/playlist.m3u8?network_id=5760
-54.|VIVA RUSSIA|FRECUENCIA 1|Madrid|https://viva-russia.ru/wp-content/uploads/2021/09/viva_2002_belyj_zhjoltyj_prjamougolnik.png|VIVARussia.ru|VIVARUSSIA|embed|https://viva-russia.ru/
-55.|verixa res 055|FRECUENCIA 1|Madrid|||||
-56.|HISPAN TV|FRECUENCIA 1|Madrid|https://www.arcoiris.tv/images/categorie/hispantv1.png|||m3u8|https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
-57.|TRECE|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png|13.TV|TDTChannels|m3u8|https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
-58.|FILM&CO|FRECUENCIA 1|Madrid|https://alpha.uscreencdn.com/images/logotypes/27376/filmico_roj.1696489950.png|||m3u8|https://daiconnect.com/live/hls/tvup/tvfy-filmco/56f0832110a1bbaecc3a45a27ddba1d9/index.m3u8
-59.|verixa res 059|FRECUENCIA 1|Madrid|||||
-60.|RAI NEWS 24|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/960px-Rai_News_24_logo_%282022%29.svg.png|RaiN.TV|TDTChannels|embed|https://www.rainews.it/notiziari/rainews24
-61.|RTPi|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/6/6e/RTP_Internacional_%282016%29.svg|||m3u8|https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-62.|TV5 MONDE|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_TV5Monde_2025.svg|TV5Monde.TV|TDTChannels|m3u8|https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-63.|DW NEWS (ENG)|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg|||m3u8|https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-64.|SERVUS TV|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ServusTV_Logo.svg/1280px-ServusTV_Logo.svg.png|438450|EPGPWDE|m3u8|https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master.m3u8
-65.|verixa res 065|FRECUENCIA 1|Madrid|||||
-66.|FASHION TV|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/7/7a/Fashion_TV_logo.svg|FashionTV HD|starhub|m3u8|https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-67.|RED BULL TV|FRECUENCIA 1|Madrid|https://cdn.freebiesupply.com/logos/large/2x/red-bull-tv-logo-svg-vector.svg|||m3u8|https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-68.|TRAVELXP|FRECUENCIA 1|Madrid|https://images.travelxp.com/general/10.jpg|Travelxp HD|starhub|m3u8|https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-69.|verixa res 069|FRECUENCIA 1|Madrid|||||
-70.|TELE SUR|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/langgl-250px-TeleSUR-Logo.svg.png|TeleSUR.TV|TDTChannels|m3u8|https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-71.|CANAL 26|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1280px-Canal_26_logo_%282022%29.svg.png|Canal26.ar|AR|youtube|https://www.youtube.com/watch?v=c8Uxc6pwDNA
-72.|ESTRELLA TV|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png|||m3u8|https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
-73.|VERIXA RES 073|FRECUENCIA 1|Madrid|||||
-74.|VERIXA RES 074|FRECUENCIA 1|Madrid|||||
-75.|verixa test 075|FRECUENCIA 1|Madrid|||||
-76.|GARAGE TV|FRECUENCIA 1|Madrid|https://www.formulatv.com/images/cadenas/logo_el-garage-tv.svg|ElGarageTv.ar|AR|m3u8|https://stream1.sersat.com/hls/garagetv.m3u8
-77.|MOTORVISION|FRECUENCIA 1|Madrid|https://motorvision.tv/wp-content/uploads/2023/09/MV_Logo_positive_light_background-2.png|||m3u8|https://ov-ml-decorate.ottera.tv/mvg/mv_es/mv_es.m3u8
-78.|WPT Poker|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/3/3c/World_Poker_Tour_2022_Logo.png|||m3u8|https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00218-wptenterprisesi-worldpokertour-wpt/playlist.m3u8
-79.|CANAL 22|FRECUENCIA 1|Madrid|https://digitaltv.prensariozone.com/wp-content/uploads/2021/07/Canal-22-Mexico-en-vivo-Online.-Mexico-1024x576.png|Canal 22 de México|gatotv|m3u8|https://5e50264bd6766.streamlock.net/canal22-back/videocanal22-back/playlist.m3u8
-80.|TVR International|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/d/d1/TVRi_Logo_2022.svg|TVRInternational.ro|RO|m3u8|https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
-81.|EWTN España|FRECUENCIA 1|Madrid|https://lirp.cdn-website.com/9ab7ce94/dms3rep/multi/opt/EWTN-BLANCO-640w.png|EWTN.TV|TDTChannels|m3u8|https://1211313014.rsc.cdn77.org/1211313014/index.m3u8
-82.|CNA|FRECUENCIA 1|Madrid|https://upload.wikimedia.org/wikipedia/commons/8/83/CNA_new_logo.svg|2852|EPGPWMY|m3u8|https://amg01082-amg01082c1-cna-worldwide-2842.playouts.now.amagi.tv/cna-cnanews-samsung/playlist.m3u8
-83.|VERIXA RES 083|FRECUENCIA 1|Madrid|||||
+26.|Canal Parlamento|FRECUENCIA 2|Madrid|https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Parlamento-Espana-en-DIRECTO-Online-y-en-vivo.png|||m3u8|https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+27.|TV3 CAT|FRECUENCIA 2|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/1280px-TV3.svg.png|TV3.TV|TDTChannels|m3u8|https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/master.m3u8
+28.|ETB SAT|FRECUENCIA 2|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ETBSat_Spain.svg/3840px-ETBSat_Spain.svg.png|ETB1.TV|TDTChannels|mpd|https://cdn1.etbon.eus/etb1/index.mpd
+29.|TV GALICIA|FRECUENCIA 2|Madrid|https://upload.wikimedia.org/wikipedia/commons/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg|TVGAL.TV|TDTChannels|m3u8|https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
+30.|EXTREMADURA SAT|FRECUENCIA 2|Madrid|https://www.formulatv.com/images/cadenas/logo_canal-extremadura-sat.svg|Extremadura.TV|TDTChannels|m3u8|https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
+31.|EURONEWS ENG|FRECUENCIA 2|Madrid|https://www.formulatv.com/images/cadenas/logo_euronews.svg|Euronews.TV|TDTChannels|youtube|https://www.youtube.com/watch?v=pykpO5kQJ98
+32.|EURONEWS FRA|FRECUENCIA 2|Madrid|https://www.formulatv.com/images/cadenas/logo_euronews.svg|Euronews.fr|FR|youtube|https://www.youtube.com/watch?v=NiRIbKwAejk
+33.|EURONEWS GER|FRECUENCIA 2|Madrid|https://www.formulatv.com/images/cadenas/logo_euronews.svg|438462|EPGPWDE|youtube|https://www.youtube.com/watch?v=CQ3KsEbsYHs
+34.|EURONEWS POR|FRECUENCIA 2|Madrid|https://www.formulatv.com/images/cadenas/logo_euronews.svg|EuronewsPortuguese.fr|PT|youtube|https://www.youtube.com/watch?v=XuZAl-ZPEcA
+35.|EURONEWS RUS|FRECUENCIA 2|Madrid|https://www.formulatv.com/images/cadenas/logo_euronews.svg||EPGPW|youtube|https://www.youtube.com/watch?v=lwYzwdBiaho
+36.|FRANCE 24 ENG|FRECUENCIA 2|Madrid|https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png|||youtube|https://www.youtube.com/watch?v=Ap-UM1O9RBU
+37.|FRANCE 24 FRA|FRECUENCIA 2|Madrid|https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png|France24.TV|TDTChannels|youtube|https://www.youtube.com/watch?v=l8PMl7tUDIE
+38.|FRANCE 24 ARAB|FRECUENCIA 2|Madrid|https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png|||youtube|https://www.youtube.com/watch?v=3ursYA8HMeo
+39.|verixa res 039|FRECUENCIA 2|Madrid|||||
+40.|BBC NEWS|FRECUENCIA 2|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1280px-BBC_News_2022_%28Alt%29.svg.png|BBC News HD|starhub|m3u8|https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+41.|al jazeera eng|FRECUENCIA 2|Madrid|https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png|AlJazeeraEnglish.qa|freeview|m3u8|https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
+42.|AL JAZEERA ARAB|FRECUENCIA 2|Madrid|https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png|AlJazeeraArabic.qa|freeview|m3u8|https://live-hls-web-ajm-bp.thehlive.com/AJM/index.m3u8
+43.|bloomberg tv|FRECUENCIA 2|Madrid|https://images.ctfassets.net/lr0atmu04u9z/1PGS2NP94z5RP7L61GzIbm/85665ad1eadfd9c965448ad67097aba0/new_bloomberg_logosvg.png|Bloom.TV|TDTChannels|m3u8|https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+44.|NHK WORLD JAPAN|FRECUENCIA 2|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/960px-NHK_World.svg.png|NHKWorldJapan.jp|freeview|m3u8|https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+45.|verixa res 045|FRECUENCIA 2|Madrid|||||
+46.|CCTV 4|FRECUENCIA 2|Madrid|https://upload.wikimedia.org/wikipedia/en/0/08/CCTV-4_channel.svg|464590|EPGPWCH|m3u8|https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv4_1/index.m3u8?BR=td&region=shanghai
+47.|RT en Español|FRECUENCIA 2|Madrid|https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg|||m3u8|https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+48.|VERIXA RES 048|FRECUENCIA 2|Madrid|||||
+49.|VERIXA RES 049|FRECUENCIA 2|Madrid|||||
+50.|verixa test 050|FRECUENCIA 2|Madrid|||||
+51.|DELUXE MUSIC|FRECUENCIA 3|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Deluxe_Music_Logo_2019.svg/1280px-Deluxe_Music_Logo_2019.svg.png|DELUXE MUSIC|EPGPWDE|m3u8|https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+52.|TRACE URBAN|FRECUENCIA 3|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Traceurban2022.png/250px-Traceurban2022.png|422320|EPGPWZA|m3u8|https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
+53.|SOL TDT|FRECUENCIA 3|Madrid|https://upload.wikimedia.org/wikipedia/commons/4/4e/SolMusica2007.png|SolMusica.TV|TDTChannels|m3u8|https://stream.ads.ottera.tv/playlist.m3u8?network_id=5760
+54.|VIVA RUSSIA|FRECUENCIA 3|Madrid|https://viva-russia.ru/wp-content/uploads/2021/09/viva_2002_belyj_zhjoltyj_prjamougolnik.png|VIVARussia.ru|VIVARUSSIA|embed|https://viva-russia.ru/
+55.|verixa res 055|FRECUENCIA 3|Madrid|||||
+56.|HISPAN TV|FRECUENCIA 3|Madrid|https://www.arcoiris.tv/images/categorie/hispantv1.png|||m3u8|https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
+57.|TRECE|FRECUENCIA 3|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png|13.TV|TDTChannels|m3u8|https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
+58.|FILM&CO|FRECUENCIA 3|Madrid|https://alpha.uscreencdn.com/images/logotypes/27376/filmico_roj.1696489950.png|||m3u8|https://daiconnect.com/live/hls/tvup/tvfy-filmco/56f0832110a1bbaecc3a45a27ddba1d9/index.m3u8
+59.|verixa res 059|FRECUENCIA 3|Madrid|||||
+60.|RAI NEWS 24|FRECUENCIA 3|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/960px-Rai_News_24_logo_%282022%29.svg.png|RaiN.TV|TDTChannels|embed|https://www.rainews.it/notiziari/rainews24
+61.|RTPi|FRECUENCIA 3|Madrid|https://upload.wikimedia.org/wikipedia/commons/6/6e/RTP_Internacional_%282016%29.svg|||m3u8|https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+62.|TV5 MONDE|FRECUENCIA 3|Madrid|https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_TV5Monde_2025.svg|TV5Monde.TV|TDTChannels|m3u8|https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+63.|DW NEWS (ENG)|FRECUENCIA 3|Madrid|https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg|||m3u8|https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+64.|SERVUS TV|FRECUENCIA 3|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ServusTV_Logo.svg/1280px-ServusTV_Logo.svg.png|438450|EPGPWDE|m3u8|https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master.m3u8
+65.|verixa res 065|FRECUENCIA 3|Madrid|||||
+66.|FASHION TV|FRECUENCIA 3|Madrid|https://upload.wikimedia.org/wikipedia/commons/7/7a/Fashion_TV_logo.svg|FashionTV HD|starhub|m3u8|https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+67.|RED BULL TV|FRECUENCIA 3|Madrid|https://cdn.freebiesupply.com/logos/large/2x/red-bull-tv-logo-svg-vector.svg|||m3u8|https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+68.|TRAVELXP|FRECUENCIA 3|Madrid|https://images.travelxp.com/general/10.jpg|Travelxp HD|starhub|m3u8|https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+69.|verixa res 069|FRECUENCIA 3|Madrid|||||
+70.|TELE SUR|FRECUENCIA 3|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/langgl-250px-TeleSUR-Logo.svg.png|TeleSUR.TV|TDTChannels|m3u8|https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+71.|CANAL 26|FRECUENCIA 3|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1280px-Canal_26_logo_%282022%29.svg.png|Canal26.ar|AR|youtube|https://www.youtube.com/watch?v=c8Uxc6pwDNA
+72.|ESTRELLA TV|FRECUENCIA 3|Madrid|https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png|||m3u8|https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
+73.|VERIXA RES 073|FRECUENCIA 3|Madrid|||||
+74.|VERIXA RES 074|FRECUENCIA 3|Madrid|||||
+75.|verixa test 075|FRECUENCIA 3|Madrid|||||
+76.|GARAGE TV|FRECUENCIA 4|Madrid|https://www.formulatv.com/images/cadenas/logo_el-garage-tv.svg|ElGarageTv.ar|AR|m3u8|https://stream1.sersat.com/hls/garagetv.m3u8
+77.|MOTORVISION|FRECUENCIA 4|Madrid|https://motorvision.tv/wp-content/uploads/2023/09/MV_Logo_positive_light_background-2.png|||m3u8|https://ov-ml-decorate.ottera.tv/mvg/mv_es/mv_es.m3u8
+78.|WPT Poker|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/3/3c/World_Poker_Tour_2022_Logo.png|||m3u8|https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00218-wptenterprisesi-worldpokertour-wpt/playlist.m3u8
+79.|CANAL 22|FRECUENCIA 4|Madrid|https://digitaltv.prensariozone.com/wp-content/uploads/2021/07/Canal-22-Mexico-en-vivo-Online.-Mexico-1024x576.png|Canal 22 de México|gatotv|m3u8|https://5e50264bd6766.streamlock.net/canal22-back/videocanal22-back/playlist.m3u8
+80.|TVR International|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/d/d1/TVRi_Logo_2022.svg|TVRInternational.ro|RO|m3u8|https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
+81.|EWTN España|FRECUENCIA 4|Madrid|https://lirp.cdn-website.com/9ab7ce94/dms3rep/multi/opt/EWTN-BLANCO-640w.png|EWTN.TV|TDTChannels|m3u8|https://1211313014.rsc.cdn77.org/1211313014/index.m3u8
+82.|CNA|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/8/83/CNA_new_logo.svg|2852|EPGPWMY|m3u8|https://amg01082-amg01082c1-cna-worldwide-2842.playouts.now.amagi.tv/cna-cnanews-samsung/playlist.m3u8
+83.|VERIXA RES 083|FRECUENCIA 4|Madrid|||||
 84.|REAL MADRID TV|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/5/57/Real_emblem_6.png|RMTV.TV|TDTChannels|m3u8|https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 85.|AL ARABY|FRECUENCIA 4|Madrid|https://www.fadaatmedia.com/sites/default/files/2024-10/Blue%20Logo%20al%20araby%20plus%402x.png|||m3u8|https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 86.|KTO|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/7/7a/KTO_t%C3%A9l%C3%A9vision_catholique_-_logo_2022.png|||m3u8|https://livekto.akamaized.net/hls/live/20000018/ktotv/master.m3u8
 87.|CGTN Español|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png|CGTN.TV|TDTChannels|embed|https://espanol.cgtn.com/en-directo
 88.|CANAL ONCE|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal_Once_logo_2025.png|Canal Once TV - México (XEIPN-TV)|gatotv|m3u8|https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
 89.|VERIXA RES 089|FRECUENCIA 4|Madrid|||||
-90.|VTV|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg|||m3u8|https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
+90.|VTV|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg|||embed|https://vtv.com.ve/
+91.|RTK 1|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/f/f8/Rtk1_2013.png|||m3u8|https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8
+92.|AD SPORTS 1|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/1920px-Abu_Dhabi_Sports_logo_2023.svg.png|||m3u8|https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
+93.|VTV Honduras|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/2/26/VTV_HN_logo_2019.png|Canal VTV Honduras (Vica TV)|gatotv|embed|https://www.vtv.com.hn/envivo/
+94.|CGTN FR|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/7/78/CGTN_-_fran%C3%A7ais.png|||embed|https://francais.cgtn.com/home
+95.|VERIXA RES 095|FRECUENCIA 4|Madrid|||||
+96.|Rai Italia|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1920px-Rai_Italia_-_Logo_2017.svg.png|Rai1.it|IT|m3u8|https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+97.|SKY NEWS ARABIA|FRECUENCIA 4|Madrid|https://www.skynewsarabia.com/asset/1643203810/17.9/assets/img/sna_logo/header_logo_color.svg|SkyNews.sa|SA|m3u8|https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/indexll.m3u8
+98.|TVE INTERNACIONAL|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/e/ee/TVE_Internacional_2026.svg|TVE_INTER.TV|TDTChannels|m3u8|https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8
+99.|7TV ANDALUCIA|FRECUENCIA 4|Madrid|https://www.7tvandalucia.es/media/7tvandalucia/images/2025/07/14/2025071410223319858.png|7TV_Andalucía.TV|TDTChannels|m3u8|https://especial7tv.gestec-video.com/hls/regional.m3u8
+100.|VERIXA END 100|FRECUENCIA 4|Madrid|||||
