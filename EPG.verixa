@@ -1,7 +1,7 @@
 https://www.tdtchannels.com/epg/TV.json|TDTChannels
 https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml|dobleM
 https://raw.githubusercontent.com/Jerrie-Aries/EPG/refs/heads/master/epg.xml|Malaysia
-https://xmltvfr.fr/xmltv/xmltv.xml|FR
+https://www.open-epg.com/files/france2.xml.txt|FR
 https://epg.pw/xmltv/epg_DE.xml|EPGPWDE
 https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/m3upt.channels.xml|PT
 https://epg.pw/xmltv/epg.xml|EPGPW
@@ -11,8 +11,9 @@ https://epg.pw/xmltv/epg_CN.xml|EPGPWCH
 https://raw.githubusercontent.com/awiouy/webgrabplus/refs/heads/master/config/siteini.pack/International/gatotv.com.channels.xml|gatotv
 https://epg.pw/xmltv/epg_ZA.xml|EPGPWZA
 https://viva-russia.ru/scheduler/epg/epg.xml|VIVARUSSIA
-https://iptv-epg.org/files/epg-ar.xml|AR
-https://iptv-epg.org/files/epg-ro.xml|RO
+https://www.open-epg.com/files/argentina1.xml|AR
+https://www.open-epg.com/files/romania1.xml|RO
 https://epg.pw/xmltv/epg_MY.xml|EPGPWMY
-https://iptv-epg.org/files/epg-it.xml|IT
-https://iptv-epg.org/files/epg-sa.xml|SA
+https://www.open-epg.com/files/italy1.xml|IT
+https://www.open-epg.com/files/saudiarabia1.xml|SA
+https://www.open-epg.com/files/malaysia3.xml|MA
