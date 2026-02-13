@@ -68,16 +68,16 @@
 68.|TRAVELXP|FRECUENCIA 3|Madrid|https://images.travelxp.com/general/10.jpg|Travelxp HD|starhub|m3u8|https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 69.|verixa res 069|FRECUENCIA 3|Madrid|||||
 70.|TELE SUR|FRECUENCIA 3|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/langgl-250px-TeleSUR-Logo.svg.png|TeleSUR.TV|TDTChannels|m3u8|https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-71.|CANAL 26|FRECUENCIA 3|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1280px-Canal_26_logo_%282022%29.svg.png|Canal26.ar|AR|youtube|https://www.youtube.com/watch?v=c8Uxc6pwDNA
+71.|CANAL 26|FRECUENCIA 3|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1280px-Canal_26_logo_%282022%29.svg.png|Canal 26.ar|AR|youtube|https://www.youtube.com/watch?v=c8Uxc6pwDNA
 72.|ESTRELLA TV|FRECUENCIA 3|Madrid|https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png|||m3u8|https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
 73.|VERIXA RES 073|FRECUENCIA 3|Madrid|||||
 74.|VERIXA RES 074|FRECUENCIA 3|Madrid|||||
 75.|verixa test 075|FRECUENCIA 3|Madrid|||||
-76.|GARAGE TV|FRECUENCIA 4|Madrid|https://www.formulatv.com/images/cadenas/logo_el-garage-tv.svg|ElGarageTv.ar|AR|m3u8|https://stream1.sersat.com/hls/garagetv.m3u8
+76.|GARAGE TV|FRECUENCIA 4|Madrid|https://www.formulatv.com/images/cadenas/logo_el-garage-tv.svg|EL GARAGE.ar|AR|m3u8|https://stream1.sersat.com/hls/garagetv.m3u8
 77.|MOTORVISION|FRECUENCIA 4|Madrid|https://motorvision.tv/wp-content/uploads/2023/09/MV_Logo_positive_light_background-2.png|||m3u8|https://ov-ml-decorate.ottera.tv/mvg/mv_es/mv_es.m3u8
 78.|WPT Poker|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/3/3c/World_Poker_Tour_2022_Logo.png|||m3u8|https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00218-wptenterprisesi-worldpokertour-wpt/playlist.m3u8
 79.|CANAL 22|FRECUENCIA 4|Madrid|https://digitaltv.prensariozone.com/wp-content/uploads/2021/07/Canal-22-Mexico-en-vivo-Online.-Mexico-1024x576.png|Canal 22 de México|gatotv|m3u8|https://5e50264bd6766.streamlock.net/canal22-back/videocanal22-back/playlist.m3u8
-80.|TVR International|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/d/d1/TVRi_Logo_2022.svg|TVRInternational.ro|RO|m3u8|https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
+80.|TVR International|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/d/d1/TVRi_Logo_2022.svg|TVR International.ro|RO|m3u8|https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
 81.|EWTN España|FRECUENCIA 4|Madrid|https://lirp.cdn-website.com/9ab7ce94/dms3rep/multi/opt/EWTN-BLANCO-640w.png|EWTN.TV|TDTChannels|m3u8|https://1211313014.rsc.cdn77.org/1211313014/index.m3u8
 82.|CNA|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/8/83/CNA_new_logo.svg|2852|EPGPWMY|m3u8|https://amg01082-amg01082c1-cna-worldwide-2842.playouts.now.amagi.tv/cna-cnanews-samsung/playlist.m3u8
 83.|VERIXA RES 083|FRECUENCIA 4|Madrid|||||
@@ -93,8 +93,33 @@
 93.|VTV Honduras|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/2/26/VTV_HN_logo_2019.png|Canal VTV Honduras (Vica TV)|gatotv|embed|https://www.vtv.com.hn/envivo/
 94.|CGTN FR|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/7/78/CGTN_-_fran%C3%A7ais.png|||embed|https://francais.cgtn.com/home
 95.|VERIXA RES 095|FRECUENCIA 4|Madrid|||||
-96.|Rai Italia|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1920px-Rai_Italia_-_Logo_2017.svg.png|Rai1.it|IT|m3u8|https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+96.|Rai Italia|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1920px-Rai_Italia_-_Logo_2017.svg.png|Rai 1 HD.it|IT|m3u8|https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 97.|SKY NEWS ARABIA|FRECUENCIA 4|Madrid|https://www.skynewsarabia.com/asset/1643203810/17.9/assets/img/sna_logo/header_logo_color.svg|SkyNews.sa|SA|m3u8|https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/indexll.m3u8
 98.|TVE INTERNACIONAL|FRECUENCIA 4|Madrid|https://upload.wikimedia.org/wikipedia/commons/e/ee/TVE_Internacional_2026.svg|TVE_INTER.TV|TDTChannels|m3u8|https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8
 99.|7TV ANDALUCIA|FRECUENCIA 4|Madrid|https://www.7tvandalucia.es/media/7tvandalucia/images/2025/07/14/2025071410223319858.png|7TV_Andalucía.TV|TDTChannels|m3u8|https://especial7tv.gestec-video.com/hls/regional.m3u8
 100.|VERIXA END 100|FRECUENCIA 4|Madrid|||||
+101.|BTV (Bernama)|FRECUENCIA 5|Madrid|https://www.bernama.com/tv/assets/img/bernama.png|Bernama TV.my|MA|youtube|https://youtu.be/qnDSymjq1bM
+102.|A24|FRECUENCIA 5|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/1920px-A24_%282025%29.svg.png|A24.ar|AR|youtube|https://www.youtube.com/watch?v=ArKbAx1K-2U
+103.|1TV GEORGIA|FRECUENCIA 5|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pirveli_Arkhi_Logo_2022.svg/960px-Pirveli_Arkhi_Logo_2022.svg.png|||youtube|https://www.youtube.com/watch?v=47UR269tPc8
+104.|TVRI|FRECUENCIA 5|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png|TVRI.id|ID|m3u8|https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+105.|AFRICA24|FRECUENCIA 5|Madrid|https://i0.wp.com/africa24tv.com/wp-content/uploads/2022/01/Logo_Africa_24.jpg|||m3u8|https://edge13.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+106.|ANTENA 7|FRECUENCIA 5|Madrid|https://static.wikia.nocookie.net/international-entertainment-project/images/5/5e/Antena7.png/revision/latest|||embed|https://www.antena7.com.do/envivo-canal-7/
+107.|MTA International|FRECUENCIA 5|Madrid|https://upload.wikimedia.org/wikipedia/commons/5/50/Mta_Logo.png|||m3u8|https://chlivemta1.akamaized.net/hls/live/2008145/mta1/master.m3u8
+108.|VTV4|FRECUENCIA 5|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1280px-VTV4_logo_2013_final.svg.png|VTV4 HD.vn|VN|embed|https://vtvgo.vn/xem-truc-tuyen-kenh-vtv4-4.html
+109.|VERIXA RES 109|FRECUENCIA 5|Madrid|||||
+110.|SRF INFO|FRECUENCIA 5|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_SRF_info.svg/1920px-Logo_SRF_info.svg.png|ZDF-Info.ch|SW|m3u8|https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
+111.|CANAL 4 NIC|FRECUENCIA 5|Madrid|https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png|||embed|https://www.canal4.com.ni/en-vivo/
+112.|HCH|FRECUENCIA 5|Madrid|https://upload.wikimedia.org/wikipedia/commons/0/0e/Logohch2022.png|||m3u8|https://live.streamhch.com/live/streams/hch1.m3u8
+113.|AZTV|FRECUENCIA 5|Madrid|https://upload.wikimedia.org/wikipedia/commons/4/4b/AzTV_%282019%29.png|||m3u8|https://str.yodacdn.net/azertv/index.m3u8
+114.|EL TORO TV|FRECUENCIA 5|Madrid|https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png|ElToroTV.TV|TDTChannels|m3u8|https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+115.|VERIXA RES 115|FRECUENCIA 6|Madrid|||||
+116.|CANAL 4 CAT|FRECUENCIA 5|Madrid|https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-4-Tenerife-en-DIRECTO-Online-.png|Canal 4 Televisio.es|ES|m3u8|https://5caf24a595d94.streamlock.net:1937/8014/8014/playlist.m3u8
+117.|TV PERÚ|FRECUENCIA 5|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1920px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png|TV PERU.pe|PE|m3u8|https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
+118.|SUDAN TV|FRECUENCIA 5|Madrid|https://sudan-tv.net/wp-content/uploads/2024/03/logo.png|||m3u8|https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
+119.|CANAL 6 (HN)|FRECUENCIA 5|Madrid|https://cdn-ildehpb.nitrocdn.com/JiJCDuQGwEBCJsDHYInMXOmwooUaLPNY/assets/images/optimized/rev-77f2a5f/canal6hn.com/wp-content/uploads/2025/03/logo-canal-5.png|||embed|https://canal6hn.com/en-vivo/
+120.|ARIRANG TV|FRECUENCIA 5|Madrid|https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png|||m3u8|https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
+121.|DOCUMENTARY+|FRECUENCIA 5|Madrid|https://gizmeon.mdc.akamaized.net/PUB-50158/config/1762855496775.png|||m3u8|https://linear-859.frequency.stream/dist/documentaryplus/859/hls/master/playlist.m3u8
+122.|RTP AÇORES|FRECUENCIA 5|Madrid|https://upload.wikimedia.org/wikipedia/commons/5/59/RTP_A%C3%A7ores_2016_%28Reduced_Version%29.svg|||m3u8|https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+123.|VERIXA RES 123|FRECUENCIA 5|Madrid|||||
+124.|KBS KOREA|FRECUENCIA 5|Madrid|https://scf.static.kbs.co.kr/image/NBCONTENTSMYLOVEKBS/NBCONTENTSMYLOVEKBS_70000000396193_20210721_20210721074000___EDITOR_03.jpg|||youtube|https://www.youtube.com/watch?v=OxQQsIvJTTU
+125.|VERIXA END 125|FRECUENCIA 5|Madrid|||||
