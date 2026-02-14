@@ -123,3 +123,28 @@
 123.|VERIXA RES 123|FRECUENCIA 5|Madrid|||||
 124.|KBS KOREA|FRECUENCIA 5|Madrid|https://scf.static.kbs.co.kr/image/NBCONTENTSMYLOVEKBS/NBCONTENTSMYLOVEKBS_70000000396193_20210721_20210721074000___EDITOR_03.jpg|||youtube|https://www.youtube.com/watch?v=OxQQsIvJTTU
 125.|VERIXA END 125|FRECUENCIA 5|Madrid|||||
+126.|SKY NEWS (INT)|FRECUENCIA 6|Madrid|https://ses-astra.es/sites/default/files/styles/large/public/2018-12/sky_signature.png|||m3u8|https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8
+127.|ABC NEWS (AU)|FRECUENCIA 6|Madrid|https://upload.wikimedia.org/wikipedia/en/5/57/ABC_Australia_logo.svg|ABC NEWS.au|AU|embed|https://iview.abc.net.au/video/NS1413V001S00
+128.|TVC NEWS|FRECUENCIA 6|Madrid|https://www.tvcnews.tv/wp-content/uploads/2025/07/logo.png|TVC News Nigeria.ng|NG|youtube|https://www.youtube.com/watch?v=Mv14aabg4mA
+129.|VERIXA RES 129|FRECUENCIA 6|Madrid|||||
+130.|AL ARABIYA (EN)|FRECUENCIA 6|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Al-Arabiya_new_logo.svg/1920px-Al-Arabiya_new_logo.svg.png|||m3u8|https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+131.|CHEDDAR NEWS|FRECUENCIA 6|Madrid|https://cloudfront-us-east-1.images.arcpublishing.com/archetype/GJSDE5LIGBWW6MCBIJJUKZDNNZ.png|||m3u8|https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
+132.|KPT (Kantipur TV)|FRECUENCIA 6|Madrid|https://upload.wikimedia.org/wikipedia/commons/1/17/Kantipur_TV_HD.png|||m3u8|https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
+133.|RTP MADEIRA|FRECUENCIA 6|Madrid|https://upload.wikimedia.org/wikipedia/commons/4/43/RTP_Madeira_2016_%28Reduced_Version%29.svg|||m3u8|https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+134.|TELEPACÍFICO|FRECUENCIA 6|Madrid|https://upload.wikimedia.org/wikipedia/commons/8/84/LOGO-TELEPACIFICO.png|Telepacifico.co|CO|m3u8|https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+135.|VERIXA RES 135|FRECUENCIA 6|Madrid|||||
+136.|SILK WAY TV|FRECUENCIA 6|Madrid|https://silkwaytv.kz/img/sw.svg|||m3u8|https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
+137.|TVGE|FRECUENCIA 6|Madrid|https://tvgelive.gq/images/logo@2x.png|||m3u8|https://rpn.bozztv.com/ses/tvge/tvge.smil/playlist.m3u8
+138.|TVP (POLONIA)|FRECUENCIA 6|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/250px-TVP_Polonia_Logo_2020.svg.png|||m3u8|https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-HLS8/tvpolonia.m3u8
+139.|VERIXA RES 139|FRECUENCIA 6|Madrid|||||
+140.|NDTV 24x7|FRECUENCIA 6|Madrid|https://upload.wikimedia.org/wikipedia/commons/c/c6/NDTV_247.svg|NDTV 24x7.in|IN|m3u8|https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
+141.|VOX AFRICA|FRECUENCIA 6|Madrid|https://voxafrica.africa-newsroom.com/files/large/11ecb3edfa739a0/200/150|||m3u8|https://1494836162.rsc.cdn77.org/LS-PRG-59570-1/playlist.m3u8
+142.|CHANNELS TV|FRECUENCIA 6|Madrid|https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg|||youtube|https://www.youtube.com/watch?v=W8nThq62Vb4
+143.|VERIXA RES 143|FRECUENCIA 6|Madrid|||||
+144.|BETEVÉ|FRECUENCIA 6|Madrid|https://img.beteve.cat/wp-content/uploads/2021/08/logo_beteve_2021.png|BTV.TV|TDTChannels|m3u8|https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfibi2fe/protocol/https/format/applehttp/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+145.|TV MONDE INFO|FRECUENCIA 6|Madrid|https://information.tv5monde.com/sites/tv5-info/files/logo-tv5monde-info.svg|||m3u8|https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+146.|CANAL I|FRECUENCIA 6|Madrid|https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_canal_i_venezuela.png|CANAL I.ve|VE|m3u8|https://streaming.canal-i.com/master.m3u8
+147.|VERIXA RES 147|FRECUENCIA 6|Madrid|||||
+148.|IB3 (GLOBAL)|FRECUENCIA 6|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/IB3.svg/1280px-IB3.svg.png|IB3.TV|TDTChannels|youtube|https://www.youtube.com/watch?v=ZtnAND2kzrs
+149.|WION NEWS|FRECUENCIA 6|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/960px-WION_news_Logo.svg.png|WION.in|IN|m3u8|https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+150.|VERIXA END 150|FRECUENCIA 6|Madrid|||||
