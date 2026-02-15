@@ -188,4 +188,13 @@
 188.|VERIXA RES 188|FRECUENCIA 8|Madrid|||||
 189.|VERIXA RES 189|FRECUENCIA 8|Madrid|||||
 190.|BETIS TV|FRECUENCIA 8|Madrid|https://vertele.online/wp-content/uploads/2023/01/Logo-Betis-TV.webp|Betis.TV|TDTChannels|embed|https://en.realbetisbalompie.es/rtvbetis/live-tv/
-191.|TELEANTIOQUIA|FRECUENCIA 8|Madrid|https://upload.wikimedia.org/wikipedia/commons/b/b2/Teleantioquia-2024Nuevo.png|Teleantioquia HD.co|CO|m3u|https://github.com/VerixaTV/VerixaSAT/raw/refs/heads/main/TELEANTIOQUIA.m3u
+191.|TELEANTIOQUIA|FRECUENCIA 8|Madrid|https://upload.wikimedia.org/wikipedia/commons/b/b2/Teleantioquia-2024Nuevo.png|Teleantioquia HD.co|CO|m3u|https://raw.githubusercontent.com/VerixaTV/VerixaSAT/refs/heads/main/TELEANTIOQUIA.m3u
+192.|NEGOCIOS TV|FRECUENCIA 8|Madrid|https://www.formulatv.com/images/cadenas/logo_negocios-tv.svg|Negocios.TV|TDTChannels|m3u8|https://streaming013.gestec-video.com/hls/negociostv.m3u8
+193.|VERIXA RES 193|FRECUENCIA 8|Madrid|||||
+194.|VERIXA RES 193|FRECUENCIA 8|Madrid|||||
+195.|TAGESSCHAU24|FRECUENCIA 8|Madrid|https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/1280px-Tagesschau24-2012.svg.png|Tagesschau24.de|DE|m3u8|https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8
+196.|VERIXA RES 196|FRECUENCIA 8|Madrid|||||
+197.|VERIXA RES 197|FRECUENCIA 8|Madrid|||||
+198.|VERIXA RES 198|FRECUENCIA 8|Madrid|||||
+199.|VERIXA RES 199|FRECUENCIA 8|Madrid|||||
+200.|VERIXA RES 200|FRECUENCIA 8|Madrid|||||
