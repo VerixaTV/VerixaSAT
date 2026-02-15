@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Teleantioquia HD.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Teleantioquia-2024Nuevo.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",TELEANTIOQUIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
